@@ -4,4 +4,4 @@ A tool for creating a cs and xaml file for the Segoe MDL2 font
 
 - 2、快速生成Mdl2.xaml 包含所有的图形以及编码——可当作资源使用
 
-- 3、使用方法配置网页 https://stackoverflow.com/questions/32217622/converter-returning-segoe-mdl2-icon-after-binding-does-not-work 通过名称查找对应的图标
+- 3、使用方法配置网页 http://modernicons.io/segoe-mdl2/cheatsheet/ 通过名称查找对应的图标
