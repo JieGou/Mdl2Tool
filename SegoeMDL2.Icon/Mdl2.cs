@@ -1,5 +1,11 @@
 namespace SegoeMDL2.Icon
 {
+    /// <summary>
+    /// SegoeMDL2图标类
+    /// </summary>
+    /// <remarks>
+    /// 该图标不全 限制了其使用
+    /// </remarks>
     public class Mdl2
     {
         public static string Accept => "\uE8FB";
